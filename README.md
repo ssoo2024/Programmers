@@ -24,3 +24,21 @@ python ./programmers_crawer.py
               
 기본값은 cpp, level 1
 ```
+
+언어표기
+```
+C             : c
+C++           : cpp
+C#            : csharp
+Go            : go
+Java          : java
+JavaScript    : javascript
+Kotlin        : kotlin
+Python2       : python
+Python3       : python3
+Ruby          : ruby
+Scala         : scala
+Swift         : swift
+MySQL         : mysql
+Oracle        : oracle
+```
